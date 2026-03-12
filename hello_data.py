@@ -4,3 +4,4 @@ print(f"Dane: {dane}")
 print(f"Średnia: {dane.mean():.1f}")
 print(f"Suma: {dane.sum()}")
 print(f"Min: {dane.min()}, Max: {dane.max()}")
+echo ".venv/" > .gitignore
